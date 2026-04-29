@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expert Blog Writer"
+  short_description: "Research and write authority blog posts on AI, SaaS, and tech"
+  default_prompt: "Use $blog-skill to research and write a high-quality, SEO-optimized blog post about [topic]."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astro Website Builder"
+  short_description: "Build production-grade Astro websites with Tailwind, MDX, and SEO"
+  default_prompt: "Use $astro-skill to build a production-ready Astro website for [describe your site goal and type]."

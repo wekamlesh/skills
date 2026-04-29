@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevOps Infra Builder"
+  short_description: "Build k8s, ingress, observability stacks"
+  default_prompt: "Use $devops-infra-builder to set up a production-ready k3s cluster with Traefik ingress, cert-manager TLS, and a Prometheus + Grafana + Loki observability stack."

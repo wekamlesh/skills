@@ -1,0 +1,30 @@
+# Local agent/editor configuration
+.*
+!.gitignore
+
+# Python cache/build output
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node/package-manager output
+node_modules/
+dist/
+build/
+.astro/
+
+# Logs and local environment
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.env
+.env.*
+
+# OS files
+Thumbs.db
+Desktop.ini
