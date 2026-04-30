@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stepwise Learning Plan"
+  short_description: "Build tailored software learning paths with labs"
+  default_prompt: "Use $stepwise-learning-plan to create a hands-on learning path for a software tool."
